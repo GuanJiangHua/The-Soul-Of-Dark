@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d13740aa78d038478e6ca0b75967eb1, type: 3}
+  m_Name: Unarmed
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 59da51775a140cf40909fdb7de3fd4cb, type: 3}
+  itemName: "\u7A7A\u624B"
+  modlPrefab: {fileID: 8575885971422751028, guid: bfa48f6439b89924e94799959a58d946, type: 3}
+  isUnarmed: 1
+  weaponController: {fileID: 22100000, guid: 26b38c906e14b874f95cf827993d1644, type: 2}
+  weaponType: 8
+  offHandIdleAnimation: Left Arm Empty
+  weaponDescription: --
+  poiseBreak: 30
+  offensivePoiseBonus: 15
+  physicalDamage: 15
+  fierDamage: 0
+  magicDamage: 0
+  lightningDamage: 0
+  darkDamage: 0
+  criticalDamageMuiltiplier: 4
+  strengthAddition: 0.1
+  dexterityAddition: 0
+  intelligenceAddition: 0
+  faithAddition: 0
+  poison: 0
+  frost: 0
+  hemorrhage: 0
+  poisonDamage: 0
+  frostDamage: 0
+  hemorrhageDamage: 0
+  physicalDamageAbsorption: 0.1
+  fierDamageAbsorption: 0
+  magicDamageAbsorption: 0
+  lightningDamageAbsorption: 0
+  darkDamageAbsorption: 0
+  blockingForce: 0
+  offHandBlock: 
+  mainHandBlock: 
+  offHandBlock_Impact: 
+  mainHandBlock_Impact: 
+  waeaponBlockAudio: 
+  baseStamina: 10
+  lightAttackMultplier: 1
+  heavyAttackMultplier: 1.2
+  tap_RB_Action: {fileID: 11400000, guid: 83ecbec3022e49549b7da1739c87befa, type: 2}
+  hold_RB_Action: {fileID: 0}
+  tap_RT_Action: {fileID: 0}
+  hold_RT_Action: {fileID: 0}
+  tap_LB_Action: {fileID: 0}
+  hold_LB_Action: {fileID: 0}
+  tap_LT_Action: {fileID: 11400000, guid: 38f409bd35724844cbf6be1a06effa22, type: 2}
+  hold_LT_Action: {fileID: 0}

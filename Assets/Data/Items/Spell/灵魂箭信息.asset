@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8fffbbf018906408c54360795a8161, type: 3}
+  m_Name: "\u7075\u9B42\u7BAD\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 2147e574d175d6442b9697123a217115, type: 3}
+  itemName: "\u7075\u9B42\u7BAD"
+  spellWarmUpFX: {fileID: 7125062315846029773, guid: 6eb1157aa239ed94bba3972c83c40bfb, type: 3}
+  spellCastFX: {fileID: 7393574171596084307, guid: 26d0e96596a6e3a49a7601a3d57006a5, type: 3}
+  spellAnimation: Cast_Magic_Start
+  occupiedSpellGrid: 1
+  focusPointCost: 5
+  isFaithSpell: 0
+  isMagicSpell: 1
+  isPyroSpell: 0
+  requiredIntelligenceLevel: 11
+  requiredFaithLevel: 0
+  spellDescription: 
+  functionDescription: "\u4F7F\u7528\u65BD\u6CD5\u6B66\u5668\u65F6\u5FC5\u987B\u88C5\u5907\u5BF9\u5E94\u7C7B\u578B\u7684\u5492\u8BED\u3002"
+  isGuidance: 1
+  physicalDamage: 0
+  fireDamage: 0
+  magicDamage: 20
+  lightningDamage: 0
+  darkDamage: 0
+  poiseBreak: 5
+  projectileForwardVelocity: 0
+  projectileUpwartVelocity: 0
+  projectileMass: 1
+  isEffectedByGravity: 0

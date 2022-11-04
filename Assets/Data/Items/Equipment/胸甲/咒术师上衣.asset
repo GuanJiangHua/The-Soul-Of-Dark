@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcf00e5039249a34c9508492fb0e0bfd, type: 3}
+  m_Name: "\u5492\u672F\u5E08\u4E0A\u8863"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 00f6c931f8ee0374d8ae20eee9047411, type: 3}
+  itemName: "\u5492\u672F\u5E08\u4E0A\u8863"
+  isHelmet: 0
+  isTorso: 1
+  isLeg: 0
+  isHand: 0
+  equipmentIDescription: "\u5492\u672F\u5E08\u7684\u517D\u76AE\u4E0A\u8863,\u8FDC\u79BB\u738B\u56FD\u5404\u805A\u5C45\u5730\u7684\u4ED6\u4EEC\u5F88\u96BE\u5F04\u5012\u5E03\u6599\u3002"
+  physicalDefense: 9
+  fireDefense: 15
+  magicDefense: 7
+  lightningDefense: 9
+  darkDefense: 10
+  poisonDefense: 0.08
+  frostDefense: 0.1
+  hemorrhageDefense: 0.1
+  curseDefense: 0.12
+  torsoModelName: Chr_Torso_Female_02
+  torsoModelName_Male: Chr_Torso_Male_02
+  leftRearArmModelName: Chr_ArmUpperLeft_Female_11
+  rightRearArmModeName: Chr_ArmUpperRight_Female_11
+  leftRearArmModelName_Male: Chr_ArmUpperLeft_Male_11
+  rightRearArmModeName_Male: Chr_ArmUpperRight_Male_11
+  leftShoulderModelsName: Chr_ShoulderAttachLeft_09
+  rightShoulderModelName: 
+  behindOrnamentID: 3

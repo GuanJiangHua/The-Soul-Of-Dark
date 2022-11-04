@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84cdb34daada5084a8dfee31d4f282fd, type: 3}
+  m_Name: "\u65A5\u5019\u76AE\u9769\u62A4\u81C2\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 3bc4e3856f4f1c44a8a54065bdd30d06, type: 3}
+  itemName: "\u65A5\u5019\u76AE\u9769\u62A4\u81C2"
+  isHelmet: 0
+  isTorso: 0
+  isLeg: 0
+  isHand: 1
+  equipmentIDescription: "\u65A5\u5019\u7684\u76AE\u9769\u62A4\u81C2,\u4E0D\u4F1A\u963B\u788D\u642D\u5F13\u5C04\u7BAD\u3002"
+  functionDescription: "\u7528\u4E8E\u9632\u62A4\u624B\u81C2\u3002"
+  physicalDefense: 8
+  fireDefense: 6
+  magicDefense: 7
+  lightningDefense: 9
+  darkDefense: 8
+  poisonDefense: 0.1
+  frostDefense: 0.08
+  hemorrhageDefense: 0.08
+  curseDefense: 0.08
+  leftForearmName: Chr_ArmLowerLeft_Female_10
+  rightForearmName: Chr_ArmLowerRight_Female_10
+  leftForearmName_Male: Chr_ArmLowerLeft_Male_10
+  rightForearmName_Male: Chr_ArmLowerRight_Male_10
+  leftPalmName: Chr_HandLeft_Female_03
+  rightPalmName: Chr_HandRight_Female_03
+  leftPalmName_Male: Chr_HandLeft_Male_03
+  rightPalmName_Male: Chr_HandRight_Male_03
+  leftElbowName: 
+  rightElbowName: 

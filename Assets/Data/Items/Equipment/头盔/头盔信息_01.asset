@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62fcbd0dddca6134e910ec768a2e2c05, type: 3}
+  m_Name: "\u5934\u76D4\u4FE1\u606F_01"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: "1\u53F7\u5934\u76D4"
+  isHelmet: 0
+  isTorso: 0
+  isLeg: 0
+  isHand: 0
+  equipmentIDescription: 
+  functionDescription: "\u7528\u4E8E\u9632\u62A4\u5934\u90E8\u3002"
+  physicalDefense: 6
+  fireDefense: 0
+  magicDefense: 0
+  lightningDefense: 0
+  darkDefense: 0
+  poisonDefense: 0
+  frostDefense: 0
+  hemorrhageDefense: 0
+  curseDefense: 0
+  isCoverHair: 1
+  isCoverHead: 1
+  isCoverFaciale: 0
+  helmerModelName: Chr_Head_No_Elements_Female_13
+  helmerModelName_male: Chr_Head_No_Elements_Male_13
+  accessoriesIDs: 

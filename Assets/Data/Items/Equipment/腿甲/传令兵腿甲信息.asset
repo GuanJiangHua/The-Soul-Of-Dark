@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b609d809b5659f46a0aa41a468dbce7, type: 3}
+  m_Name: "\u4F20\u4EE4\u5175\u817F\u7532\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: ed7be0054ece7114f99fce30820d6fda, type: 3}
+  itemName: "\u4F20\u4EE4\u5175\u817F\u7532"
+  isHelmet: 0
+  isTorso: 0
+  isLeg: 1
+  isHand: 0
+  equipmentIDescription: "\u738B\u56FD\u58EB\u5175\u6807\u914D\u62A4\u7532\u3002"
+  functionDescription: "\u7528\u4E8E\u9632\u62A4\u817F\u90E8\u3002"
+  physicalDefense: 10
+  fireDefense: 8
+  magicDefense: 9
+  lightningDefense: 6
+  darkDefense: 12
+  poisonDefense: 0.08
+  frostDefense: 0.1
+  hemorrhageDefense: 0.1
+  curseDefense: 0.08
+  hipModleName: Chr_Hips_Female_11
+  hipModleName_Male: Chr_Hips_Male_11
+  leftLegName: Chr_LegLeft_Female_07
+  rightLegName: Chr_LegRight_Female_07
+  leftLegName_Male: Chr_LegLeft_Male_07
+  rightLegName_Male: Chr_LegRight_Male_07
+  leftKneePadName: 
+  rightKneePadName: 
+  accessorieId: 0400000007000000

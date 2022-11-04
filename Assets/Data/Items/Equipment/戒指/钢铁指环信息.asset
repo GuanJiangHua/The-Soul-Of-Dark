@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ce61ef59ce19c459f0e6536a859eb5, type: 3}
+  m_Name: "\u94A2\u94C1\u6307\u73AF\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: ccca97dd14ea5a04c96bb5f5ad563ebb, type: 3}
+  itemName: "\u94A2\u94C1\u6307\u73AF"
+  equipmentIDescription: "\u5BC4\u5BBF\u6709\u4E00\u4E2A\u53E4\u4EE3\u738B\u56FD\u7279\u6709\u9B54\u6CD5\u7684\u94C1\u6307\u73AF,\u8FD9\u94A2\u94C1\u5386\u7ECF\u591A\u5E74,\u4ECD\u7136\u4E0D\u89C1\u9508\u8680\u7684\u75D5\u8FF9\u3002"
+  functionDescription: "\u88C5\u5907\u6212\u6307\u53EF\u4EE5\u83B7\u5F97\u7269\u7406\u6297\u6027\u52A0\u6210\u3002"
+  maxHealthAddition: 0
+  maxStaminaAddition: 0
+  maxFocusPointsAddition: 0
+  healthLevelAddition: 0
+  staminaLevelAddition: 0
+  focusLevelAddition: 0
+  strengthLevelAddition: 0
+  dexterityLevelAddition: 0
+  intelligenceLevelAddition: 0
+  faithLevelAddition: 0
+  soulsRewardLevelAddition: 0
+  temporaryPhysicalDamageAbsorption: 15
+  temporaryFireDamageAbsorption: 0
+  temporaryMagicDamageAbsorption: 0
+  temporaryLightningDamageAbsorption: 0
+  temporaryDarkDamageAbsorption: 0
+  temporaryPoisonDefenseAbsorption: 0
+  temporaryHemorrhageDefenseAbsorption: 0
+  temporaryFrostDamageAbsorption: 0
+  temporaryCurseDefenseAbsorption: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ce61ef59ce19c459f0e6536a859eb5, type: 3}
+  m_Name: "\u9A91\u58EB\u6212\u6307\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: ccca97dd14ea5a04c96bb5f5ad563ebb, type: 3}
+  itemName: "\u9A91\u58EB\u6212\u6307"
+  equipmentIDescription: "\u81EA\u88AB\u6D1B\u65AF\u91CC\u514B\u5F81\u670D\u540E,\u738B\u56FD\u6548\u4EFF\u6D1B\u65AF\u91CC\u514B,\u4E3A\u6548\u5FE0\u7684\u9A91\u58EB\u914D\u53D1\u53D7\u8D50\u798F\u7684\u9B54\u529B\u6212\u6307\u3002"
+  functionDescription: "\u88C5\u5907\u6212\u6307\u53EF\u4EE5\u83B7\u5F97\u529B\u91CF\u5C5E\u6027\u52A0\u6210\u3002"
+  maxHealthAddition: 0
+  maxStaminaAddition: 0
+  maxFocusPointsAddition: 0
+  healthLevelAddition: 0
+  staminaLevelAddition: 0
+  focusLevelAddition: 0
+  strengthLevelAddition: 5
+  dexterityLevelAddition: 0
+  intelligenceLevelAddition: 0
+  faithLevelAddition: 0
+  soulsRewardLevelAddition: 0

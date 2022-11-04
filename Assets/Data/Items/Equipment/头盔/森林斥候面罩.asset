@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62fcbd0dddca6134e910ec768a2e2c05, type: 3}
+  m_Name: "\u68EE\u6797\u65A5\u5019\u9762\u7F69"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 844c0466af22b7045ac85944a1cd1f72, type: 3}
+  itemName: "\u68EE\u6797\u65A5\u5019\u9762\u7532"
+  isHelmet: 1
+  isTorso: 0
+  isLeg: 0
+  isHand: 0
+  equipmentIDescription: "\u68EE\u6797\u65A5\u5019\u7684\u6728\u5236\u9762\u7532,\u53D7\u98CE\u795E\u796D\u5E08\u8D50\u798F,\u5FAE\u98CE\u4F1A\u5C06\u7634\u6C14\u5439\u79BB\u4F7F\u7528\u8005\u7684\u53E3\u9F3B,\u4F7F\u5176\u514D\u53D7\u68EE\u6797\u4E2D\u7684\u6BD2\u7634\u4F24\u5BB3\u3002"
+  functionDescription: "\u7528\u4E8E\u9632\u62A4\u5934\u90E8\u3002"
+  physicalDefense: 6
+  fireDefense: 6
+  magicDefense: 8
+  lightningDefense: 7
+  darkDefense: 10
+  poisonDefense: 0.1
+  frostDefense: 0.08
+  hemorrhageDefense: 0.08
+  curseDefense: 0.1
+  isCoverHair: 0
+  isCoverHead: 0
+  isCoverFaciale: 0
+  helmerModelName: Chr_HeadCoverings_No_FacialHair_01
+  helmerModelName_male: Chr_HeadCoverings_No_FacialHair_01
+  accessoriesIDs: 

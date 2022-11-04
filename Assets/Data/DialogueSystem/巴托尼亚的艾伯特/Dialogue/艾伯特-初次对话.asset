@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df4b64824f297b84592321e80803e1d9, type: 3}
+  m_Name: "\u827E\u4F2F\u7279-\u521D\u6B21\u5BF9\u8BDD"
+  m_EditorClassIdentifier: 
+  dialogStatus: -1
+  plotName: "\u4E0E\u827E\u4F2F\u7279\u7684\u521D\u6B21\u89C1\u9762"
+  currentPlotFavorability: 0
+  plotOpeningPosition: {x: -5.5, y: 0, z: 1}
+  plotOpeningRotation: {x: 0, y: 85, z: 0}
+  startAnimName: Idle_Neutral
+  startPlotAtMainIndex: 0
+  prerequisite: {fileID: 11400000, guid: f4a7d3f8b0be81e4fb3281995824ec1c, type: 2}
+  subsequentCondition: {fileID: 0}
+  preconditionsNotMetDialogue:
+  - "\u6211\u4E0D\u4E0E\u5E73\u6C11\u4EA4\u8C08\uFF0C\u4F60\u6211\u5C0A\u5351\u6709\u522B\u3002"
+  - "\u5FEB\u79BB\u53BB\u5427\u3002"
+  mainDialogue:
+  - "\u6CA1\u60F3\u5230\u5728\u9047\u4E0A\u4E86\u5176\u4ED6\u9A91\u58EB\uFF0C\u4F60\u597D\u5C0A\u8D35\u7684\u9A91\u58EB\u3002"
+  - "\u6211\u662F\u5DF4\u6258\u5C3C\u4E9A\u7684\u827E\u4F2F\u7279\uFF0C\u6765\u81F3\u8BD7\u4E0E\u9152\u4E4B\u4E61\uFF0C\u7F8E\u4E3D\u7E41\u534E\u7684\u5DF4\u5C14\u5FB7\u7F57\u3002"
+  - "\u8FFD\u5BFB\u6211\u6545\u4E61\u4F20\u5947\u9A91\u58EB\uFF0C\"\u767D\u72EE\u5B50\"\u8DEF\u6613\u65AF\u9A91\u58EB\u7684\u6B65\u4F10\uFF0C\u6765\u6B64\u5F02\u56FD\u4ED6\u4E61\u8FFD\u5BFB\u6211\u7684\u9A91\u58EB\u4E4B\u9053\u3002"
+  - "\u6211\u8FD8\u5728\u627E\u5BFB\u8FDB\u5165\u767D\u57CE\u7684\u65B9\u6CD5\uFF0C\u76F8\u4FE1\u6211\u4EEC\u8FD8\u80FD\u518D\u89C1\uFF0C\u671B\u4F60\u7684\u9A91\u58EB\u4E4B\u9053\u6709\u6E56\u4E2D\u5973\u58EB\u6307\u5F15\u3002"
+  meetSubsequentConditions:
+  - "\u671F\u5F85\u4E0B\u6B21\u518D\u89C1\uFF0C\u9A91\u58EB\u3002"
+  - "\u4F60\u5148\u52A8\u8EAB\u5427\uFF0C\u6211\u7A0D\u4F5C\u51C6\u5907\u4FBF\u4F1A\u8DDF\u4E0A\u3002"
+  preconditionsNotMetOptions:
+  - {fileID: 11400000, guid: 382a69e2340640f479fad2161b972b8d, type: 2}
+  - {fileID: 11400000, guid: ccbaab0535256bd4197fb67f87eab3d8, type: 2}
+  currentPlotOptions: []
+  followDialogueandAndPlotName: "\u4E0E\u827E\u4F2F\u7279\u5728\u9AD8\u53F0\u89C1\u9762"

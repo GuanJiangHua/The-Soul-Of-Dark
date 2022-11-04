@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d13740aa78d038478e6ca0b75967eb1, type: 3}
+  m_Name: Axe_01
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: af09e6469aded93439a53292718878cb, type: 3}
+  itemName: "\u521A\u65A7"
+  modlPrefab: {fileID: 5079319142260761220, guid: 851e06bbd8bfd61468dc4ed3c4410e5e, type: 3}
+  isUnarmed: 0
+  weaponController: {fileID: 22100000, guid: 85edd2e2b8f7b0a42ba2cd635f96ed77, type: 2}
+  weaponType: 3
+  offHandIdleAnimation: Left_Arm_Idle_01
+  weaponDescription: "\u6700\u70BD\u70C8\u7684\u706B,\u953B\u9020\u7684\u4F18\u8D28\u65A7\u3002"
+  poiseBreak: 40
+  offensivePoiseBonus: 30
+  physicalDamage: 32
+  fierDamage: 0
+  magicDamage: 0
+  lightningDamage: 0
+  darkDamage: 0
+  criticalDamageMuiltiplier: 4
+  strengthAddition: 0.75
+  dexterityAddition: 0.055
+  intelligenceAddition: 0.025
+  faithAddition: 0.05
+  poison: 0
+  frost: 0
+  hemorrhage: 0
+  poisonDamage: 0
+  frostDamage: 0
+  hemorrhageDamage: 0
+  physicalDamageAbsorption: 0.3
+  fierDamageAbsorption: 0.25
+  magicDamageAbsorption: 0.2
+  lightningDamageAbsorption: 0.15
+  darkDamageAbsorption: 0.2
+  blockingForce: 30
+  offHandBlock: OffHandBlock
+  mainHandBlock: MainHandBlock
+  offHandBlock_Impact: OffHandBlock_Impact
+  mainHandBlock_Impact: MainHandBlock_Impact
+  waeaponBlockAudio: "\u5200\u5251\u6321\u4F4F\u5200\u5251"
+  baseStamina: 20
+  lightAttackMultplier: 1
+  heavyAttackMultplier: 1.2
+  tap_RB_Action: {fileID: 11400000, guid: 83ecbec3022e49549b7da1739c87befa, type: 2}
+  hold_RB_Action: {fileID: 11400000, guid: bab95e1fd1e672e498b67e0321a2abe2, type: 2}
+  tap_RT_Action: {fileID: 11400000, guid: 7e9f49a75b82e12438f3e859ff9e6c62, type: 2}
+  hold_RT_Action: {fileID: 0}
+  tap_LB_Action: {fileID: 0}
+  hold_LB_Action: {fileID: 11400000, guid: 8bb33f833fdde4a4f99923d34ca9b8cd, type: 2}
+  tap_LT_Action: {fileID: 11400000, guid: 83ecbec3022e49549b7da1739c87befa, type: 2}
+  hold_LT_Action: {fileID: 0}

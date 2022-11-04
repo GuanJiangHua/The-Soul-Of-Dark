@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d13740aa78d038478e6ca0b75967eb1, type: 3}
+  m_Name: Shidle_02
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 8e1a86eee9ce1db4f8faf65cac7df56c, type: 3}
+  itemName: "\u738B\u51A0\u56FE\u7EB9\u76FE"
+  modlPrefab: {fileID: 3185995832868170463, guid: fd1116223f1611147864bb18c94751d2, type: 3}
+  isUnarmed: 0
+  weaponController: {fileID: 0}
+  weaponType: 5
+  offHandIdleAnimation: Left_Arm_Idle_01
+  weaponDescription: "\u738B\u51A0\u56FE\u7EB9\u88C5\u9970\u7684\u9E22\u578B\u4E2D\u76FE"
+  poiseBreak: 0
+  offensivePoiseBonus: 0
+  physicalDamage: 0
+  fierDamage: 0
+  magicDamage: 0
+  lightningDamage: 0
+  darkDamage: 0
+  criticalDamageMuiltiplier: 4
+  strengthAddition: 0
+  dexterityAddition: 0
+  intelligenceAddition: 0
+  faithAddition: 0
+  poison: 0
+  frost: 0
+  hemorrhage: 0
+  poisonDamage: 0
+  frostDamage: 0
+  hemorrhageDamage: 0
+  physicalDamageAbsorption: 1
+  fierDamageAbsorption: 0.75
+  magicDamageAbsorption: 0.55
+  lightningDamageAbsorption: 0.35
+  darkDamageAbsorption: 0.55
+  blockingForce: 40
+  offHandBlock: 
+  mainHandBlock: 
+  offHandBlock_Impact: 
+  mainHandBlock_Impact: 
+  waeaponBlockAudio: "\u76FE\u6321\u4F4F\u5200\u5251"
+  baseStamina: 0
+  lightAttackMultplier: 0
+  heavyAttackMultplier: 0
+  tap_RB_Action: {fileID: 0}
+  hold_RB_Action: {fileID: 0}
+  tap_RT_Action: {fileID: 0}
+  hold_RT_Action: {fileID: 0}
+  tap_LB_Action: {fileID: 0}
+  hold_LB_Action: {fileID: 11400000, guid: 8bb33f833fdde4a4f99923d34ca9b8cd, type: 2}
+  tap_LT_Action: {fileID: 11400000, guid: 38f409bd35724844cbf6be1a06effa22, type: 2}
+  hold_LT_Action: {fileID: 0}

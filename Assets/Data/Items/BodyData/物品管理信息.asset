@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cc121c368bbce4496822c0d8dbabce, type: 3}
+  m_Name: "\u7269\u54C1\u7BA1\u7406\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  allWeaponsList:
+  - {fileID: 11400000, guid: 3238f624953043f4097a9720a07a7b63, type: 2}
+  - {fileID: 11400000, guid: 69ad341e90743d9498f01b678f3d7eee, type: 2}
+  - {fileID: 11400000, guid: ef11f70f18c94fe498729fa14003839b, type: 2}
+  - {fileID: 11400000, guid: 395c71d79017c0b478db8446722ab052, type: 2}
+  - {fileID: 11400000, guid: 0119771aad80f004e96291d65fbffac5, type: 2}
+  - {fileID: 11400000, guid: 35ce872500b066f4687266ec7a395ec3, type: 2}
+  - {fileID: 11400000, guid: 88916b85fc7a11a439f6b2420ed97944, type: 2}
+  - {fileID: 11400000, guid: 23932c187ae4b98459d345995adde68f, type: 2}
+  - {fileID: 11400000, guid: 932594702a568534ebf0bb0325a3e886, type: 2}
+  - {fileID: 11400000, guid: 2a937f0f69574704e85ba3e2b4da301f, type: 2}
+  - {fileID: 11400000, guid: bd82bcd4640031a4eadfab906a49ecf0, type: 2}
+  - {fileID: 11400000, guid: e57e3f00b12a0af4d8eaaa20628b04b3, type: 2}
+  - {fileID: 11400000, guid: 3d218265a018d944cbed13d6d3e74eec, type: 2}
+  - {fileID: 11400000, guid: 518c81a9976f04d4f8f9b366d5290043, type: 2}
+  - {fileID: 11400000, guid: 9acd36fc14d805549b60a290fb6ceeac, type: 2}
+  - {fileID: 11400000, guid: 6d0c4c073ac48fc4a8a4b624aca3707b, type: 2}
+  allHelmetsList:
+  - {fileID: 11400000, guid: 616ce3077736376498fc46d8cdac3b41, type: 2}
+  - {fileID: 11400000, guid: d56da7b306ca609488cf774e484a666d, type: 2}
+  - {fileID: 11400000, guid: cbb301b474106c0458b3ba536f50a37a, type: 2}
+  - {fileID: 11400000, guid: 0528d6003cec1d44e85b836ab49dc358, type: 2}
+  - {fileID: 11400000, guid: 7d23caaf9a8377648b96d5605c5c3bff, type: 2}
+  - {fileID: 11400000, guid: 45a231bfcf47f7141aa0160a10a73b01, type: 2}
+  allTorsoEquipmentList:
+  - {fileID: 11400000, guid: ca01ae1287802d340b96ecea6c542213, type: 2}
+  - {fileID: 11400000, guid: 192e51e91d7c602448e29db0842a6267, type: 2}
+  - {fileID: 11400000, guid: 10d23d88b2498ae4591dd70afc779502, type: 2}
+  - {fileID: 11400000, guid: cb07fb0de23f7564da5716e01408be85, type: 2}
+  - {fileID: 11400000, guid: a60e7afe846e8e1408bd4f4967b75004, type: 2}
+  - {fileID: 11400000, guid: a291fabd55a0ec645af51c598e052c98, type: 2}
+  allHandEquipmentList:
+  - {fileID: 11400000, guid: acc0e53d88efb9e4ba7f29bc2fe0989d, type: 2}
+  - {fileID: 11400000, guid: f88bf9c8223cfd043820ac1561b24d52, type: 2}
+  - {fileID: 11400000, guid: ca5523d6614bad948935d2b0022d107d, type: 2}
+  - {fileID: 11400000, guid: d8c7d2444f983ff4d9f19e0a9345e225, type: 2}
+  - {fileID: 11400000, guid: 0eda53c8b799de446bbb8b6c8ee54dd9, type: 2}
+  - {fileID: 11400000, guid: ee0392bf6b91fb140b5c957f81cfd11b, type: 2}
+  allLegEquipmentList:
+  - {fileID: 11400000, guid: 88585827ce2c98344b95b2b94b55465b, type: 2}
+  - {fileID: 11400000, guid: b2c875b9c27fea243b20be13a20a776b, type: 2}
+  - {fileID: 11400000, guid: 191401ac9e42e56439b4339bdc2ced4d, type: 2}
+  - {fileID: 11400000, guid: 906a6b11500281e49a311077ce860853, type: 2}
+  - {fileID: 11400000, guid: 7330febbb5345ec4887cbaf83a0638b3, type: 2}
+  - {fileID: 11400000, guid: 1350115806958a0449c636156b883213, type: 2}
+  allRingList:
+  - {fileID: 11400000, guid: 409eeb7f8642dc946aed39dcdda217c3, type: 2}
+  - {fileID: 11400000, guid: 6736572d96411354d9754660a90d8c22, type: 2}
+  allSpellItemList:
+  - {fileID: 11400000, guid: f367e2de1dc9d104593efa08c24f25d7, type: 2}
+  - {fileID: 11400000, guid: a5830b5c87051514682e498b37656dd2, type: 2}
+  - {fileID: 11400000, guid: ae1032ca48487384791b12a0687418e7, type: 2}
+  allConsumableItemList:
+  - {fileID: 11400000, guid: fc4281042b49c92419d82b4e466eb9bd, type: 2}
+  - {fileID: 11400000, guid: 315695b45e0701a4b86e5f0bf9728e2a, type: 2}
+  - {fileID: 11400000, guid: aa186e26876afce41b67e4b91ea527e6, type: 2}
+  - {fileID: 11400000, guid: 5ea15f0696dc41b458347f72a3f0edd3, type: 2}
+  - {fileID: 11400000, guid: 76ae392a888814a4c9f47f8e71f58f54, type: 2}
+  - {fileID: 11400000, guid: f27614b83da32ff45933d54583d5a4b4, type: 2}
+  - {fileID: 11400000, guid: 3776525ca90812149b098517b79b8104, type: 2}
+  - {fileID: 11400000, guid: 5a31a211f7646ff409b071d494e4204b, type: 2}
+  allRangedAmmoItemList:
+  - {fileID: 11400000, guid: 794c64d969115eb48965ab046d86bf81, type: 2}

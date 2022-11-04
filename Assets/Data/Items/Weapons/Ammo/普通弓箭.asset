@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d906bcb487d5043bf54be41cb8e7af, type: 3}
+  m_Name: "\u666E\u901A\u5F13\u7BAD"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 9c62bdbef7a799342b2ebb38fd4b5e31, type: 3}
+  itemName: "\u666E\u901A\u5F13\u7BAD"
+  ammoType: 0
+  weaponDescription: 
+  functionDescription: "\u8FDC\u7A0B\u6B66\u5668\u5FC5\u987B\u88C5\u5907\u5F39\u836F\u624D\u80FD\u4F7F\u7528\u3002"
+  forwardVelocity: 900
+  upwardVelocity: 0
+  ammoMass: 0
+  useGravity: 0
+  carryLimit: 99
+  currentAmount: 99
+  physicalDamage: 25
+  fierDamage: 0
+  magicDamage: 0
+  darkDamage: 0
+  lightningDamage: 0
+  poison: 0
+  frost: 0
+  hemorrhage: 0
+  poisonDamage: 0
+  frostDamage: 0
+  hemorrhageDamage: 0
+  poiseBreak: 15
+  loadedItemModel: {fileID: 4541544861608146784, guid: f79e594bfc2a8f0469e1b40e8640d2ff, type: 3}
+  liveAmmoModel: {fileID: 4541544861608146784, guid: ac0f5ca0cc25c3e4ab5b00cd7c547333, type: 3}
+  penetratedModel: {fileID: 4541544861608146784, guid: 357c514a53ab7134aae321c6ec6b36c9, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e496b198913a56346b8d14bc5b4b6c7e, type: 3}
+  m_Name: "\u5C0F\u5077\u7F57\u5FB7\u5188\u9AA8\u7070\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 77600a14ff87aaf47a82d5874b2830bd, type: 3}
+  itemName: "\u5C0F\u5077\u7F57\u5FB7\u5188\u7684\u9AA8\u7070"
+  maxItemAmount: 1
+  currentItemAmount: 1
+  itemModel: {fileID: 0}
+  cosumeAnimatrion: 
+  isInteracting: 0
+  consumableDescription: "\u5C0F\u5077\u7F57\u5FB7\u5188\u7684\u9AA8\u7070\uFF0C\u5176\u4E0A\u7684\u6E29\u5EA6\u8FD8\u672A\u5B8C\u5168\u6D41\u5931\u3002"
+  functionDescription: "\u5C06\u9AA8\u7070\u4EA4\u7ED9\u5176\u4ED6\u5546\u5E97\u4E3B\uFF0C\u53EF\u4EE5\u4F7F\u5C06\u5546\u54C1\u589E\u52A0\u3002"
+  shopownerName: "\u7F57\u5FB7\u5188\u7684\u5546\u5E97"

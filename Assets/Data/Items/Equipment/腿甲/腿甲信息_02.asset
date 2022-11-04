@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b609d809b5659f46a0aa41a468dbce7, type: 3}
+  m_Name: "\u817F\u7532\u4FE1\u606F_02"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: "\u6D4B\u8BD5\u817F\u7532"
+  isHelmet: 0
+  isTorso: 0
+  isLeg: 0
+  isHand: 0
+  equipmentIDescription: 
+  functionDescription: "\u7528\u4E8E\u9632\u62A4\u817F\u90E8\u3002"
+  physicalDefense: 30
+  fireDefense: 0
+  magicDefense: 0
+  lightningDefense: 0
+  darkDefense: 0
+  poisonDefense: 0
+  frostDefense: 0
+  hemorrhageDefense: 0
+  curseDefense: 0
+  hipModleName: Chr_Hips_Female_13
+  hipModleName_Male: Chr_Hips_Male_13
+  leftLegName: Chr_LegLeft_Female_18
+  rightLegName: Chr_LegRight_Female_18
+  leftLegName_Male: Chr_LegLeft_Male_18
+  rightLegName_Male: Chr_LegRight_Male_18
+  leftKneePadName: 
+  rightKneePadName: 
+  accessorieId: 07000000

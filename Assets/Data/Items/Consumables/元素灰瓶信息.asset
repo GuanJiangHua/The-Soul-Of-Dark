@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1579de05779b641aae9ee2fb3e0cd2, type: 3}
+  m_Name: "\u5143\u7D20\u7070\u74F6\u4FE1\u606F"
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 22b0f4bf78d0d724394b53cd0aa87765, type: 3}
+  itemName: "\u5143\u7D20\u7070\u74F6"
+  maxItemAmount: 2
+  currentItemAmount: 2
+  itemModel: {fileID: 144793611777133000, guid: a608902398d6e584bbfb02af6a65bab6, type: 3}
+  cosumeAnimatrion: Potion_Drink
+  isInteracting: 0
+  consumableDescription: "\u74F6\u4E2D\u88C5\u6709\u5947\u7279\u7684\u84DD\u8272\u836F\u6C34,\u95FB\u4E0A\u53BB\u6CA1\u6709\u5473\u9053,\u66F4\u770B\u4E0D\u51FA\u539F\u6599\u4E3A\u4F55\u3002"
+  functionDescription: "\u56DE\u590D\u4E00\u5B9A\u91CF\u6CD5\u529B\u503C,\u901A\u8FC7\u6CE8\u5165\u5143\u7D20\u7ED3\u6676\u53EF\u589E\u5F3A\u56DE\u590D\u6548\u679C\u3002"
+  estusFlask: 0
+  ashenFlask: 1
+  healthRecoveryAmount: 0
+  focusPointsRecoveryAmount: 25
+  recoveryFX: {fileID: 6071622472998010261, guid: 9b454629d3f8a1644993c6af05bbf78e, type: 3}
+  emptyModel: {fileID: 144793611777133000, guid: f52a1820f67ce724a8aefdc1bb3c9c69, type: 3}
+  healedAudio: "\u6CBB\u7597"

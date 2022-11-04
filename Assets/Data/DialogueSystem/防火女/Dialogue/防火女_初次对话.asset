@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df4b64824f297b84592321e80803e1d9, type: 3}
+  m_Name: "\u9632\u706B\u5973_\u521D\u6B21\u5BF9\u8BDD"
+  m_EditorClassIdentifier: 
+  dialogStatus: -1
+  plotName: "\u4E0E\u9632\u706B\u5973\u7684\u521D\u6B21\u5BF9\u8BDD"
+  currentPlotFavorability: 0
+  plotOpeningPosition: {x: -75, y: -17, z: 80}
+  plotOpeningRotation: {x: 0, y: 200, z: 0}
+  startAnimName: Idle_Neutral
+  startPlotAtMainIndex: 0
+  prerequisite: {fileID: 0}
+  subsequentCondition: {fileID: 0}
+  preconditionsNotMetDialogue: []
+  mainDialogue:
+  - "\u521D\u6B21\u89C1\u9762,\u6211\u662F\u60A8\u7684\u9632\u706B\u5973\u3002"
+  meetSubsequentConditions:
+  - "\u5728\u5F80\u540E\u7684\u65C5\u9014\u4E2D\uFF0C\u6211\u53EF\u4EE5\u5E2E\u4F60\u83B7\u5F97\u7075\u9B42\u4E2D\u7684\u529B\u91CF\u3002"
+  - "\u8BF7\u5BB9\u6211\u7A0D\u4F5C\u51C6\u5907\uFF0C\u4E0B\u6B21\u4FBF\u80FD\u4E3A\u4F60\u5F15\u51FA\u529B\u91CF\u3002"
+  preconditionsNotMetOptions: []
+  currentPlotOptions: []
+  followDialogueandAndPlotName: "\u4E0E\u9632\u706B\u5973\u7684\u4E8C\u6B21\u5BF9\u8BDD"
